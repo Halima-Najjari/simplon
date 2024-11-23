@@ -1,0 +1,31 @@
+main{
+    border: 2px rgb(104, 81, 18) solid;
+    margin-right: 10px;
+    display: grid;
+    margin: 3px;
+    
+}
+.couss{
+    margin-right: 30px;
+    margin: 7px;
+}
+.started{
+    margin-left: 30px;
+}
+section{
+    display: flex;
+}
+body{
+    display: flex;
+   
+}
+img{
+    width: 550px;
+    height: 550px;
+    object-fit: cover;
+}
+p{
+    font-size: large;
+    margin: 7px;
+  
+}
